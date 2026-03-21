@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-АКТИВЕН-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=chamadoxlxd&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
