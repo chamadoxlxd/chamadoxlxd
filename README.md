@@ -70,6 +70,14 @@
 
 ---
 
+### Статистика терминала (Estatísticas do Terminal)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chamadoxlxd&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamadoxlxd&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
 ### Контакты (Contato)
 > <p align="left">
 >   [ ДОСТУП ЗАКРЫТ ]
