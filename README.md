@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/chamadoxlxd/chamadoxlxd/blob/main/em%20cima%20do%20nome.gif" alt="Pac-Man Loading Bar" width="600" />
+</div>
+
 # Alexandre Andreoli (chamadoxlxd)
 
 <p align="left">
@@ -7,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQxMTQwOTQsIm5iZiI6MTc3NDExMzc5NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIxVDE3MjMxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlMDg5YjliZWNkMWM5N2FmZjNlMDlkYTYwYzllM2VlZTZiMTI5MWY4OTZhODg1ODgyMTBlMmQ2OTJlZjYzYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8i5r38_JRJ9gYh75K2_06cxbDi54RLUMhZYu1_SqlJM" alt="Profile Banner" width="600" />
+  <img src="https://github.com/chamadoxlxd/chamadoxlxd/blob/main/imagem%201.gif" alt="Profile Banner" width="600" />
 </div>
 
 <p align="center">
@@ -50,6 +54,10 @@
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
 </p>
 
+<div align="center">
+  <img src="https://github.com/chamadoxlxd/chamadoxlxd/blob/main/imagem%202%20centro.gif" alt="Hardware connections" width="600" />
+</div>
+
 ---
 
 ### Текущий Фокус (Foco Atual)
@@ -68,3 +76,9 @@
 > <p align="left">
 >   <a href="#"><img src="https://img.shields.io/badge/Контакты-[СЕКРЕТ]-darkred?style=plastic&logo=lock&logoColor=white" /></a>
 > </p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/chamadoxlxd/chamadoxlxd/blob/main/final.gif" alt="Pixel Dino and Cactus" width="600" />
+</div>
