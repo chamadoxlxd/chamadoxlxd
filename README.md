@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/em%20cima%20do%20nome.gif" alt="Pac-Man Loading Bar" width="600" />
 </div>
 
-# Alexandre Andreoli (chamadoxlxd)
+<h1 align="center">Alexandre Andreoli</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-АКТИВЕН-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
