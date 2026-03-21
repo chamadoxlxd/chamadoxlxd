@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2eTRpZ2N6MTRmNDM4eHY5ZWg0bmE5eW1ueWlhNHlmMTRhM2o5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8KXYbM9G5M9N17xP4/giphy.gif" alt="Code Background" />
+  <img src="https://raw.githubusercontent.com/joshua-richards/Matrix-Code-Rain/master/matrix.gif" alt="Matrix Code Rain" />
 </p>
 
 ---
@@ -15,6 +15,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f2f2f2&size=20&center=true&vCenter=true&width=600&lines=Full+Stack+Разработчик;Специалист+по+качеству+ПО;Выходные:+Чтение,+Игры+и+Код" alt="Typing SVG" />
 </p>
+
+---
+
+### Обо мне (Sobre mim)
+> Инициализация профиля... Успешно. (Inicialização de perfil... Sucesso.)
+* **Формация (Formação):** Graduado em Análise e Desenvolvimento de Sistemas (ADS).
+* **Специализация (Especialização):** Pós-graduado em Engenharia de Qualidade de Software.
+* **Профиль (Perfil):** Desenvolvedor Full Stack focado na construção de sistemas resilientes.
+* **Свободное время (Tempo livre):** Quando os commits param, o foco passa para a leitura, os jogos e o desenvolvimento de projetos paralelos.
 
 ---
 
