@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/chamadoxlxd/chamadoxlxd/blob/main/em%20cima%20do%20nome.gif](https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/em%20cima%20do%20nome.gif)" alt="Pac-Man Loading Bar" width="600" />
+  <img src="https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/em%20cima%20do%20nome.gif" alt="Pac-Man Loading Bar" width="600" />
 </div>
 
 # Alexandre Andreoli (chamadoxlxd)
@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/chamadoxlxd/chamadoxlxd/blob/main/imagem%201.gif" alt="Profile Banner" width="600" />
+  <img src="https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/imagem%201.gif" alt="Profile Banner" width="600" />
 </div>
 
 <p align="center">
@@ -55,7 +55,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/chamadoxlxd/chamadoxlxd/blob/main/imagem%202%20centro.gif" alt="Hardware connections" width="600" />
+  <img src="https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/imagem%202%20centro.gif" alt="Hardware connections" width="600" />
 </div>
 
 ---
@@ -80,5 +80,5 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/chamadoxlxd/chamadoxlxd/blob/main/final.gif" alt="Pixel Dino and Cactus" width="600" />
+  <img src="https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/final.gif" alt="Pixel Dino and Cactus" width="600" />
 </div>
