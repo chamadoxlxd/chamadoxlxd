@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/chamadoxlxd/chamadoxlxd/blob/main/em%20cima%20do%20nome.gif" alt="Pac-Man Loading Bar" width="600" />
+  <img src="[https://github.com/chamadoxlxd/chamadoxlxd/blob/main/em%20cima%20do%20nome.gif](https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/em%20cima%20do%20nome.gif)" alt="Pac-Man Loading Bar" width="600" />
 </div>
 
 # Alexandre Andreoli (chamadoxlxd)
