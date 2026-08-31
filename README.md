@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/em%20cima%20do%20nome.gif" alt="Pac-Man Loading Bar" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Andreoli&fontSize=44&fontColor=FFE100&fontAlignY=38&desc=Full%20Stack%20Developer%20e%20Especialista%20em%20QA&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=000000&text=Andreoli&fontSize=44&fontColor=FFFFFF&fontAlignY=55&desc=Full%20Stack%20Developer%20e%20Especialista%20em%20QA&descAlignY=75&descSize=16" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-АКТИВЕН-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
@@ -136,6 +136,6 @@
   <img src="https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/final.gif" alt="Pixel Dino and Cactus" width="600" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=000000" width="100%"/>
 
 <p align="center"><b>chamadoxlxd</b> — compilando ideias, commit por commit. 🐍</p>
