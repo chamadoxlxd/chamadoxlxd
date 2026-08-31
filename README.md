@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/chamadoxlxd/chamadoxlxd/refs/heads/main/assets/em%20cima%20do%20nome.gif" alt="Pac-Man Loading Bar" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Andreoli&fontSize=44&fontColor=00E5FF&fontAlignY=38&desc=Full%20Stack%20Developer%20e%20Especialista%20em%20QA&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Andreoli&fontSize=44&fontColor=FFE100&fontAlignY=38&desc=Full%20Stack%20Developer%20e%20Especialista%20em%20QA&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-АКТИВЕН-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://alexandre.aandreoli.dev/"><img src="https://img.shields.io/badge/Portfólio-alexandre.aandreoli.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://aandreoli.dev/"><img src="https://img.shields.io/badge/Site-aandreoli.dev-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://alexandre.aandreoli.dev/"><img src="https://img.shields.io/badge/Portfólio%20Profissional-alexandre.aandreoli.dev-FFE100?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://aandreoli.dev/"><img src="https://img.shields.io/badge/Portfólio%203D-aandreoli.dev-FFE100?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 </p>
 
 ---
